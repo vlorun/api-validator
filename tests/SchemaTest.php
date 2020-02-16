@@ -1,8 +1,8 @@
 <?php
-namespace ElevenLabs\Api;
+namespace Vlorun\Api;
 
-use ElevenLabs\Api\Definition\RequestDefinition;
-use ElevenLabs\Api\Definition\RequestDefinitions;
+use Vlorun\Api\Definition\RequestDefinition;
+use Vlorun\Api\Definition\RequestDefinitions;
 use PHPUnit\Framework\TestCase;
 
 class SchemaTest extends TestCase

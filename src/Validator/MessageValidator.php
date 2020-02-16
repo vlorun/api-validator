@@ -1,12 +1,12 @@
 <?php declare(strict_types=1);
 
-namespace ElevenLabs\Api\Validator;
+namespace Vlorun\Api\Validator;
 
-use ElevenLabs\Api\Decoder\DecoderInterface;
-use ElevenLabs\Api\Decoder\DecoderUtils;
-use ElevenLabs\Api\Definition\MessageDefinition;
-use ElevenLabs\Api\Definition\RequestDefinition;
-use ElevenLabs\Api\Normalizer\QueryParamsNormalizer;
+use Vlorun\Api\Decoder\DecoderInterface;
+use Vlorun\Api\Decoder\DecoderUtils;
+use Vlorun\Api\Definition\MessageDefinition;
+use Vlorun\Api\Definition\RequestDefinition;
+use Vlorun\Api\Normalizer\QueryParamsNormalizer;
 use JsonSchema\Validator;
 use Psr\Http\Message\MessageInterface;
 use Psr\Http\Message\RequestInterface;

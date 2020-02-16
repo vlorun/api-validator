@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace ElevenLabs\Api\Decoder;
+namespace Vlorun\Api\Decoder;
 
 interface DecoderInterface
 {

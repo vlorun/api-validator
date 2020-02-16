@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace ElevenLabs\Api\Validator;
+namespace Vlorun\Api\Validator;
 
 /**
  * ValueObject that contains constraint violation properties

@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace ElevenLabs\Api\Validator\Exception;
+namespace Vlorun\Api\Validator\Exception;
 
-use ElevenLabs\Api\Validator\ConstraintViolation;
+use Vlorun\Api\Validator\ConstraintViolation;
 
 class ConstraintViolations extends \Exception
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace ElevenLabs\Api\Decoder;
+namespace Vlorun\Api\Decoder;
 
 use PHPUnit\Framework\TestCase;
 

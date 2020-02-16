@@ -1,7 +1,7 @@
 <?php
-namespace ElevenLabs\Api\Factory;
+namespace Vlorun\Api\Factory;
 
-use ElevenLabs\Api\Schema;
+use Vlorun\Api\Schema;
 use PHPUnit\Framework\TestCase;
 use Prophecy\Argument;
 use Psr\Cache\CacheItemInterface;

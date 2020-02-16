@@ -1,13 +1,13 @@
 <?php
-namespace ElevenLabs\Api\Factory;
+namespace Vlorun\Api\Factory;
 
-use ElevenLabs\Api\Definition\RequestDefinition;
-use ElevenLabs\Api\Definition\Parameter;
-use ElevenLabs\Api\Definition\Parameters;
-use ElevenLabs\Api\Definition\RequestDefinitions;
-use ElevenLabs\Api\Definition\ResponseDefinition;
-use ElevenLabs\Api\Schema;
-use ElevenLabs\Api\JsonSchema\Uri\YamlUriRetriever;
+use Vlorun\Api\Definition\RequestDefinition;
+use Vlorun\Api\Definition\Parameter;
+use Vlorun\Api\Definition\Parameters;
+use Vlorun\Api\Definition\RequestDefinitions;
+use Vlorun\Api\Definition\ResponseDefinition;
+use Vlorun\Api\Schema;
+use Vlorun\Api\JsonSchema\Uri\YamlUriRetriever;
 use JsonSchema\SchemaStorage;
 use JsonSchema\Uri\UriResolver;
 use JsonSchema\Uri\UriRetriever;

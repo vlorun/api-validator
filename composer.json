@@ -1,5 +1,5 @@
 {
-    "name": "eleven-labs/api-validator",
+    "name": "vlorun/api-validator",
     "description": "Validate PSR-7 Requests against an OpenAPI/Swagger2 Schema",
     "authors": [
         {
@@ -9,12 +9,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "ElevenLabs\\Api\\": "src/"
+            "Vlorun\\Api\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ElevenLabs\\Api\\": "tests/"
+            "Vlorun\\Api\\": "tests/"
         },
         "files": [
             "vendor/phpunit/phpunit/src/Framework/Assert/Functions.php"

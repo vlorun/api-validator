@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace ElevenLabs\Api\Definition;
+namespace Vlorun\Api\Definition;
 
 class ResponseDefinition implements \Serializable, MessageDefinition
 {

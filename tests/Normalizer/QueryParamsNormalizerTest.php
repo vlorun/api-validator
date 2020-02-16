@@ -1,5 +1,5 @@
 <?php
-namespace ElevenLabs\Api\Normalizer;
+namespace Vlorun\Api\Normalizer;
 
 use PHPUnit\Framework\TestCase;
 

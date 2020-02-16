@@ -1,10 +1,10 @@
 <?php
-namespace ElevenLabs\Api\Validator;
+namespace Vlorun\Api\Validator;
 
-use ElevenLabs\Api\Decoder\Adapter\SymfonyDecoderAdapter;
-use ElevenLabs\Api\Definition\MessageDefinition;
-use ElevenLabs\Api\Definition\RequestDefinition;
-use ElevenLabs\Api\Definition\ResponseDefinition;
+use Vlorun\Api\Decoder\Adapter\SymfonyDecoderAdapter;
+use Vlorun\Api\Definition\MessageDefinition;
+use Vlorun\Api\Definition\RequestDefinition;
+use Vlorun\Api\Definition\ResponseDefinition;
 use JsonSchema\Validator;
 use PHPUnit\Framework\TestCase;
 use Psr\Http\Message\MessageInterface;

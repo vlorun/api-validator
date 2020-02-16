@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace ElevenLabs\Api\Decoder\Adapter;
+namespace Vlorun\Api\Decoder\Adapter;
 
-use ElevenLabs\Api\Decoder\DecoderInterface;
+use Vlorun\Api\Decoder\DecoderInterface;
 use Symfony\Component\Serializer\Encoder\DecoderInterface as SymfonyDecoderInterface;
 
 class SymfonyDecoderAdapter implements DecoderInterface

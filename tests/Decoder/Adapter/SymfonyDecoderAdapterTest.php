@@ -1,5 +1,5 @@
 <?php
-namespace ElevenLabs\Api\Decoder\Adapter;
+namespace Vlorun\Api\Decoder\Adapter;
 
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\Serializer\Encoder\JsonDecode;

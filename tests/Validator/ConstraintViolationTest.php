@@ -1,5 +1,5 @@
 <?php
-namespace ElevenLabs\Api\Validator;
+namespace Vlorun\Api\Validator;
 
 use PHPUnit\Framework\TestCase;
 

@@ -1,5 +1,5 @@
 <?php
-namespace ElevenLabs\Api\JsonSchema\Uri;
+namespace Vlorun\Api\JsonSchema\Uri;
 
 use JsonSchema\Uri\UriRetriever;
 use Symfony\Component\Yaml\Yaml;

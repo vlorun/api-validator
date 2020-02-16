@@ -1,5 +1,5 @@
 <?php
-namespace ElevenLabs\Api\JsonSchema\Uri;
+namespace Vlorun\Api\JsonSchema\Uri;
 
 use PHPUnit\Framework\TestCase;
 

@@ -1,5 +1,5 @@
 <?php
-namespace ElevenLabs\Api\Definition;
+namespace Vlorun\Api\Definition;
 
 use PHPUnit\Framework\TestCase;
 

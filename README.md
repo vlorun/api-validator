@@ -42,9 +42,9 @@ You can validate any PSR-7:
 ```php
 <?php
 
-use ElevenLabs\Api\Factory\SwaggerSchemaFactory;
-use ElevenLabs\Api\Decoder\Adapter\SymfonyDecoderAdapter;
-use ElevenLabs\Api\Validator\MessageValidator;
+use Vlorun\Api\Factory\SwaggerSchemaFactory;
+use Vlorun\Api\Decoder\Adapter\SymfonyDecoderAdapter;
+use Vlorun\Api\Validator\MessageValidator;
 use JsonSchema\Validator;
 use Symfony\Component\Serializer\Encoder\JsonDecode;
 use Symfony\Component\Serializer\Encoder\ChainDecoder;
@@ -119,7 +119,7 @@ Example:
 
 ```php
 <?php
-use ElevenLabs\Api\Factory\SwaggerSchemaFactory;
+use Vlorun\Api\Factory\SwaggerSchemaFactory;
 
 $schema = (new SwaggerSchemaFactory())->createSchema('file://path/to/your/swagger.json');
 
